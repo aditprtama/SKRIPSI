@@ -12,6 +12,7 @@ Hasil pengujian menunjukkan bahwa sistem mampu mengklasifikasikan suara depresi 
 ![image](https://github.com/user-attachments/assets/710a96eb-201a-4747-9634-a7651edf8291)
 
 Hasil dari perhitungan akurasi, recall, presisi, dan F1-score terdapat pada tabel dibawah ini
+
 ![image](https://github.com/user-attachments/assets/43bcce65-3912-4847-aa41-42157be13b11)
 
 
